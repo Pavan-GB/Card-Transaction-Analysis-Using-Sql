@@ -1,5 +1,6 @@
-Welcome to Credit card transaction sales analysis - India
+Welcome to Credit card transaction sales analysis - India                                                                                                                      
 Data extracted from - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+
 Data summary - Based on credit card transaction habits across 986 cities in India with 4 different credit card types and 6 different expense types.It ranges from 4th October 2013 to 26th May 2015,i.e.for 600 days.
 
 Leveraging following SQL queries,actionable insights regarding the data of credit card transactions can be drawn, hence enabling informed decision-making for the stakeholders:
